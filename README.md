@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 About Me
 
-💡 Hello! I'm a Mechanical Engeneering bachelor and I'm taking a post degree in Software Engineering. Always willing to learn about new technologies and expand my knowledge.
+💡 Hello! I'm a Mechanical Engineering bachelor and I'm taking a post degree in Software Engineering. Always willing to learn about new technologies and expand my knowledge.
 
 🌱 I am currently learning [Node.js](https://nodejs.org/en) and [Mongo.db](https://www.mongodb.com/).
 
